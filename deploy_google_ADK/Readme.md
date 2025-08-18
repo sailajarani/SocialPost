@@ -38,27 +38,16 @@ This project demonstrates how to leverage Google ADK's code-first approach and w
 4.  **Install dependencies:**
     ```bash
     pip install -r backend/requirements.txt
-    ```
-    *(Note: The `requirements.txt` is located inside the `backend` folder, as Part 2 will add a frontend folder at the top level.)*
+   
 5.  **Set up your API Key:**
-    *   Create a file named `.env` in the **directory** `marketing_campaign_agent`.
+    *   Create a file named `.env` in the **directory** .
     *   Add your Google API Key to this file, using the environment variable name expected by the Google AI client library (usually `GOOGLE_API_KEY`).
         ```env
         GOOGLE_API_KEY='YOUR_ACTUAL_GOOGLE_API_KEY'
         ```
     *   Replace `'YOUR_ACTUAL_GOOGLE_API_KEY'` with your key.
 
-## Project Structure (Part 1)
 
-```
-marketing-agents-adk/
-├── marketing_campaign_agent/
-│   ├── __init__.py         # Package initialization
-    └── .env                # Stores your API key (not committed to git)
-│   ├── agent.py            # Defines all LlmAgents and the SequentialAgent workflow
-│   ├── requirements.txt    # Project dependencies
-│   └── instruction.py      # Text files containing detailed instructions for each agent
-```
 
 
 
@@ -67,5 +56,6 @@ marketing-agents-adk/
 
 MIT
 "# SocialPostDepoly" 
+
 
 
