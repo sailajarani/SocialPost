@@ -2,19 +2,6 @@
 
 This repository contains the code for the Marketing Campaign Assistant project, built as part of a tutorial series on Google's Agent Development Kit (ADK).
 
-**Part 1 of this series focuses on building the core multi-agent logic using Python and Google ADK, and running/visualizing it locally using the ADK command-line interface and web development UI.**
-
-Watch the tutorial video here: [https://www.youtube.com/watch?v=/r-JsrEoctCQ](https://www.youtube.com/watch?v=/r-JsrEoctCQ)
-
-## Project Description
-
-The Marketing Campaign Assistant is a multi-agent system designed to automate the initial steps of creating a marketing campaign brief. It takes a product idea as input and uses a workflow of specialized AI agents to:
-
-1.  Research market trends and target audience.
-2.  Craft key messaging.
-3.  Write ad copy variations.
-4.  Suggest visual concepts.
-5.  Format the results into a cohesive brief.
 
 This project demonstrates how to leverage Google ADK's code-first approach and workflow orchestration capabilities to build agents that collaborate on a complex task.
 
@@ -80,34 +67,11 @@ marketing-agents-adk/
 │   └── instruction.py      # Text files containing detailed instructions for each agent
 ```
 
-## How to Run the Agent (Part 1)
 
-You can run and interact with the agent as explained in the video:
-## **Using the ADK Web UI (`adk web`)**
-    *   Ensure your virtual environment is activated and the `.env` file is set up correctly in the project root.
-    *   Navigate to the project root directory (`marketing-agents-adk`).
-    *   Run the ADK web command:
-        ```bash
-        adk web
-        ```
-    *   The command will start a local web server and provide a URL (usually `http://localhost:8000`).
-    *   Open this URL in your web browser.
-    *   In the Web UI, select `marketing_campaign_agent` from the dropdown on the left.
-    *   You can then type messages, view agent responses, and explore the "Events" tab to see the internal workflow execution, including which sub-agents were called and in what order.
 
-## Future Development (Part 2)
 
-In the next part of this tutorial series, we will:
 
-*   Deploy our agent to Google Cloud
-
-Stay tuned!
-
-## Contributing
-
-If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
-
-## License
 
 MIT
 "# SocialPostDepoly" 
+
