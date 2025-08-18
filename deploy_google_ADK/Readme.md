@@ -5,14 +5,7 @@ This repository contains the code for the Marketing Campaign Assistant project, 
 
 This project demonstrates how to leverage Google ADK's code-first approach and workflow orchestration capabilities to build agents that collaborate on a complex task.
 
-## Features Covered in Part 1
 
-*   Defining specialized `LlmAgent` components.
-*   Orchestrating agents in a specific sequence using a `SequentialAgent` workflow.
-*   Using built-in tools (like Google Search).
-*   Passing state/information between agents.
-*   Running the agent locally via the ADK CLI (`adk run`).
-*   Visualizing the agent's execution flow and state using the ADK Web UI (`adk web`).
 
 ## Prerequisites
 
@@ -74,4 +67,5 @@ marketing-agents-adk/
 
 MIT
 "# SocialPostDepoly" 
+
 
