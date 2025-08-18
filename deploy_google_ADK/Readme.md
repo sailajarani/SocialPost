@@ -1,4 +1,4 @@
-# Marketing Campaign Assistant - Google ADK Tutorial Project
+
 
 This repository contains the code for the Marketing Campaign Assistant project, built as part of a tutorial series on Google's Agent Development Kit (ADK).
 
@@ -56,6 +56,7 @@ This project demonstrates how to leverage Google ADK's code-first approach and w
 
 MIT
 "# SocialPostDepoly" 
+
 
 
 
