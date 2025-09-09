@@ -19,7 +19,6 @@ This project demonstrates how to leverage Google ADK's code-first approach and w
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/AhsanAyaz/marketing-agents-adk
     cd marketing-agents-adk
     ```
 2.  **Create a virtual environment (recommended):**
@@ -56,6 +55,7 @@ This project demonstrates how to leverage Google ADK's code-first approach and w
 
 MIT
 "# SocialPostDepoly" 
+
 
 
 
