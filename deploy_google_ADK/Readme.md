@@ -36,7 +36,7 @@ This project demonstrates how to leverage Google ADK's code-first approach and w
         ```
 4.  **Install dependencies:**
     ```bash
-    pip install -r backend/requirements.txt
+    pip install -r requirements.txt
    
 5.  **Set up your API Key:**
     *   Create a file named `.env` in the **directory** .
@@ -55,6 +55,7 @@ This project demonstrates how to leverage Google ADK's code-first approach and w
 
 MIT
 "# SocialPostDepoly" 
+
 
 
 
