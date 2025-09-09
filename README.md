@@ -18,9 +18,8 @@ This project demonstrates how to leverage Google ADK's code-first approach and w
 
 ## Installation
 
-1.  **Clone the repository:**
+1. 
     ```bash
-    git clone https://github.com/AhsanAyaz/marketing-agents-adk
     cd marketing-agents-adk
     ```
 2.  **Create a virtual environment (recommended):**
@@ -48,6 +47,8 @@ This project demonstrates how to leverage Google ADK's code-first approach and w
         GOOGLE_API_KEY='YOUR_ACTUAL_GOOGLE_API_KEY'
         ```
     *   Replace `'YOUR_ACTUAL_GOOGLE_API_KEY'` with your key.
+    *   Add other necessary API Keys
+    * 
 
 
 
